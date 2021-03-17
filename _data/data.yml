@@ -126,33 +126,44 @@ publications:
         authors: M Couceiro, G Chandrasekara, M Bravo, M Hiltunen, P Romano, L Rodrigues
         conference: Middleware 2015 Proceedings of the 16th Annual Middleware Conference
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
+      - title: Adaptive Quorums for Cloud Storage Systems
+        link: "https://fenix.tecnico.ulisboa.pt/downloadFile/844820067125051/79529.gayana.pilanawithanage.extended%20abstract.pdf"
+        authors:  G Chandrasekara
+        
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Event/Test driven development
+        level: 100%
+        
+      - name: C# .Net Framework
         level: 95%
 
-      - name: Ruby on Rails
+      - name: C# .Net Core
+        level: 85%
+        
+      - name: XUnit,Specflow
+        level: 85%
+        
+      - name: Swagger/OpenApi
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: MSMQ/Rebus
+        level: 85%
+
+      - name: MSSQL
+        level: 80%
+
+      - name: Git, GitLab CI/CD
+        level: 80%
+
+      - name: Teamcity/Octopus
+        level: 70%
+        
+      - name: AWS,Cloudformation,CDK
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
