@@ -140,12 +140,12 @@ skills:
         
       - name: C# .Net Framework
         level: 95%
-
-      - name: C# .Net Core
-        level: 85%
         
       - name: XUnit,Specflow
-        level: 85%
+        level: 95%
+
+      - name: C# .Net Core
+        level: 85%       
         
       - name: Swagger/OpenApi
         level: 85%
