@@ -79,7 +79,7 @@ experiences:
           - Share Knowledge
           
     - role: Software Engineer
-      time: 2015 Nov - 2021
+      time: 2015 Nov - 2020 Dec
       company: Qliro AB, Stockholm
       details: |
       
@@ -118,24 +118,19 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      For my masters I mainly experimented and reseached on distributed systems and below are my publications
+      related to that.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Q-OPT: Self-tuning Quorum System for Strongly Consistent Software Defined Storage
+        link: "https://dl.acm.org/doi/10.1145/2814576.2814809"
+        authors: M Couceiro, G Chandrasekara, M Bravo, M Hiltunen, P Romano, L Rodrigues
+        conference: Middleware '15: Proceedings of the 16th Annual Middleware Conference
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
