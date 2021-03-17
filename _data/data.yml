@@ -61,32 +61,28 @@ education:
       time: 2006 - 2010
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2021 Jan - Present
+      company: Qliro AB, Stockholm
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Design and implement new payment provider integrations while maintaining the existing
+        integrations. I am part of a dynamic team who is responsible of maintaining and extending
+        few RESTful web apis and quite dynamic backend payment processing system keeping the 
+        availability and the scalability of the system. Apart from new feature development 
+        we constantly monitor the system and improve it so that the system would perform as 
+        expected due to the onboarding of new merchants. I urge to have unit tests
+        and end to end tests as a part of definition of done of a story. Also motivate others to 
+        document the features they develop as a part of knowledge share. 
+          - Cloud migrations
+          - Event driven system design
+          - Accountability 
+          - Share Knowledge
+          
+    - role: Software Engineer
+      time: 2015 Dec - 2021
+      company: Qliro AB, Stockholm
+      details: |
+        
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
