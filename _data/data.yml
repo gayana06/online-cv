@@ -122,7 +122,7 @@ publications:
       related to that.
     papers:
       - title: Q-OPT, Self-tuning Quorum System for Strongly Consistent Software Defined Storage
-        link: "#"
+        link: "https://dl.acm.org/doi/10.1145/2814576.2814809"
         authors: M Couceiro, G Chandrasekara, M Bravo, M Hiltunen, P Romano, L Rodrigues
         conference: Middleware 2015 Proceedings of the 16th Annual Middleware Conference
 
