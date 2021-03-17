@@ -42,9 +42,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a well-focused and highly motivated Computer Science and Engineering
-      professional with over 8 years of industry experience currenly working as a 
-      senior software engineer at Qliro AB.
+      I am a well-focused and highly motivated Computer Science and Engineering professional
+      with over 8 years of industry experience currenly working as a senior software engineer
+      at Qliro AB. I obtained the degree European Master of Distributed Computing offered by
+      both institutes KTH Sweden and IST Portugal.
+
+      I mainly grew within the financial industry (mostly within Payment Systems) as a backend 
+      software engineer which is quite challenging but quite fun at the same time. I am fond 
+      of working with highly available systems with large volumes. It always helps me to optimize 
+      the system over time giving the opportunity to learn latest technologies and practices. 
+      
 education:
     - degree: MSc in Distributed Computing
       university: KTH Sweden
