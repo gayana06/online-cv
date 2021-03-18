@@ -149,6 +149,9 @@ skills:
         
       - name: Swagger/OpenApi
         level: 85%
+        
+      - name: LoadTest/JMeter
+        level: 85%
 
       - name: MSMQ/Rebus
         level: 85%
